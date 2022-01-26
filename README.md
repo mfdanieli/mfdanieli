@@ -27,4 +27,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## My Projects
+- colocar os links dos repositorios organizados aqui
 
+# Data Science
+- projeto completo financeiro
+
+# Data Exploration and Visualization
+- colocar os dashboard de power bi
+- graficos...
+
+# Scientific Computation
+- sihqual
+- algortimos 
