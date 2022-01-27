@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 ## My Projects
 
 
-# Data Science
+## Data Science
 
 
-# Data Analysis and Visualization
+## Data Analysis and Visualization
 
 
-# Scientific Computation
+## Scientific Computation
 
