@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-- Fortran
-- Matlab
 - Python
 - SQL
 - Power BI
 - Machine Learning
+- Fortran
+- Matlab
 
 ## Contact me:
 
