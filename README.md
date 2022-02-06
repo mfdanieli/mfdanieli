@@ -28,11 +28,12 @@ You can click the Preview link to take a look at your changes.
 ## My Projects
 
 
-### Data Science
+### Data Science 
+Here are some fictional projects to solve Business problems using Machine Learning.
 
 
-### Data Analysis and Visualization
+#### Data Analysis and Visualization
 
 
 ### Scientific Computation
-
+Here are some of my algorithms for understanding and predicting water related issues in engineering.
