@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-- Scientific Computation
-- Data Analysis
 - Fortran
 - Matlab
 - Python
 - SQL
 - Power BI
+- Deterministic modeling
+- Machine Learning
 
 ## Contact me:
 
