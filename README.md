@@ -2,6 +2,7 @@
 ## Who am I?
 
 - 📚 Researcher.
+- ✏️ Writer.
 - 👩‍💻 Currently learning Data Science.
 - 🌱 Environmental Engineer - UFPR
 - 🎓 Doctor of Water Resources and Environmental Engineering - UFPR.
