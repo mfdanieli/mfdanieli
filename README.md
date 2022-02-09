@@ -1,8 +1,7 @@
 
-## Who am I?
+## Hi, I'm Danieli!
 
 - 📚 Researcher.
-- ✏️ Writer.
 - 👩‍💻 Currently learning Data Science.
 - 🌱 Environmental Engineer - UFPR
 - 🎓 Doctor of Water Resources and Environmental Engineering - UFPR.
@@ -13,12 +12,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Skills
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- Fortran
-- Matlab
+
+- **Data Collect and Storage**: SQL
+- **Data Vizualization**: Power BI
+- **Machine Learning Modeling**: Classification, Regression, Clustering, and Time Series.
+- **Programming**: 
+  - Fortran
+  - Matlab
+  - Python
 
 ## Contact me:
 
@@ -28,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 
 ## My Projects
 
+- [Predict Diabetes](https://github.com/mfdanieli/Classification-ML) [Completed]
+
+[App](https://github.com/mfdanieli/Aplication-ML)
+
+- Ice cream sales prediction [In progress]
 
 ### Data Science 
 Here are some fictional projects to solve Business problems using Machine Learning.
