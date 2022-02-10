@@ -14,8 +14,9 @@ You can click the Preview link to take a look at your changes.
 ## Skills
 
 - **Data Collect and Storage**: SQL
-- **Data Vizualization**: Power BI
-- **Machine Learning Modeling**: Classification, Regression, Clustering, and Time Series.
+- **Data Vizualization**: Power BI, Seaborn and Matplotlib libraries
+- **Data Scraping**: Beautifulsoup library
+- **Machine Learning**: Classification, Regression, Clustering, and Time Series (sklearn library)
 - **Programming**: 
   - Fortran
   - Matlab
