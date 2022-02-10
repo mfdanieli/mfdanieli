@@ -23,8 +23,6 @@ You can click the Preview link to take a look at your changes.
   - Matlab
   - Python
 
-**essa parte de bibliotecas é melhor colocar nos projetos!(?)
-
 ## Contact me:
 
 <div>
