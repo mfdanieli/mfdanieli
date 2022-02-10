@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 - **Data Vizualization**: Power BI, Seaborn and Matplotlib libraries
 - **Data Scraping**: Beautifulsoup library
 - **Machine Learning**: Classification, Regression, Clustering, and Time Series (sklearn library)
+- **Deployment**: streamlit library
 - **Programming**: 
   - Fortran
   - Matlab
