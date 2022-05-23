@@ -2,7 +2,7 @@
 ## Hi, I'm Danieli!
 
 - 📚 Researcher.
-- 👩‍💻 Data Science enthusiastic.
+- 👩‍💻 Data Scientist.
 - 🌱 Environmental Engineer - UFPR
 - 🎓 Doctor of Water Resources and Environmental Engineering - UFPR.
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## My Projects
 
 ### Data Science 
-Here are some fictional projects to solve Business problems using Machine Learning.
+Here are a few projects to solve Business problems using Machine Learning.
 
 - [Predict Diabetes](https://github.com/mfdanieli/Classification-ML) [Completed]
 
