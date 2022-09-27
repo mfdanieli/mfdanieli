@@ -2,7 +2,7 @@
 ## Hi, I'm Danieli!
 
 - 📚 Researcher.
-- 👩‍💻 Data Scientist.
+- 👩‍💻 Scientist.
 - 🌱 Environmental Engineer - UFPR.
 - 🎓 Doctor of Water Resources and Environmental Engineering - UFPR.
 
