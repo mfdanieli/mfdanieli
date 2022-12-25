@@ -31,9 +31,9 @@ Here are a few projects to solve Business problems using Machine Learning.
 -------------
 #### [🩺 Predict Diabetes based on risk factors](https://github.com/mfdanieli/Classification-ML)
 
-* Problem: Undiagnosed diabetes can cost *$31.7 billion annually*. Is there a way to increase early diagnosis?
+* Problem: Undiagnosed diabetes can cost $31.7 billion annually. Is there a way to increase early diagnosis?
 * Solution: Develop a machine learning method (K-Nearest Neighbours) to predict if a patient may have diabetes, based on risk health factors.
-* Results: 
+* Results: Assuming that 70% of the brazilian population does anually check-ups, and that diabetes tests cost R$ 30: the developed model is able to save up to R$ 3.4 billions per year.
 
 See the app for real-time prediction: 
 
@@ -42,11 +42,11 @@ See the app for real-time prediction:
 
 #### [🍦 Receive in your telegram a prediction for ice cream sales based on real-time weather conditions](https://github.com/mfdanieli/Regression-ML)
 
-* Problem:
+* Problem: Ice cream waste may cut a significant part of revenue. Is there a way to reduce losses?
 * Solution: Linear regression model to predict revenue based on temperature. The model in production finds your location and the current temperature, delivering the revenue prediction in your telegram.
 * Results: Mean revenue is R$ 521.57. Assuming that wasted material consumes 10% of revenue, the *model reduces losses from R$ 52 to R$ 19* (which is the obtained average error).
 
-[See project detaisl and the telegram bot for real-time prediction](https://github.com/mfdanieli/Regression-ML)
+[See project details and the telegram bot for real-time prediction](https://github.com/mfdanieli/Regression-ML)
 
 #### [🍕 Food delivery: a dashboard to evaluate the Company Growth](https://github.com/mfdanieli/curry_company)
 
