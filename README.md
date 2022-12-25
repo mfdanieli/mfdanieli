@@ -40,7 +40,7 @@ See the app for real-time prediction:
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mfdanieli/aplication-ml/main/KNN-diabetes-APP.py)
 
 
-#### [🍦 Receive in your telegram a prediction for ice cream sales based on real-time weather conditionss](https://github.com/mfdanieli/Regression-ML)
+#### [🍦 Receive in your telegram a prediction for ice cream sales based on real-time weather conditions](https://github.com/mfdanieli/Regression-ML)
 
 * Problem:
 * Solution: Linear regression model to predict revenue based on temperature. The model in production finds your location and the current temperature, delivering the revenue prediction in your telegram.
