@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Data Science Projects
 
-Here are a few projects to solve Business problems using Machine Learning.
+Here are a few fictional projects to solve Business problems using Machine Learning.
 
 -------------
 #### [🩺 Predict Diabetes based on risk factors](https://github.com/mfdanieli/Classification-ML)
