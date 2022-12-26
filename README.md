@@ -33,7 +33,7 @@ Here are a few fictional projects to solve Business problems using Machine Learn
 
 * Problem: Undiagnosed diabetes can cost $31.7 billion annually. Is there a way to increase early diagnosis?
 * Solution: Develop a machine learning method (K-Nearest Neighbours) to predict if a patient may have diabetes, based on risk health factors.
-* Results: Assuming that 70% of the brazilian population does anually check-ups, and that diabetes tests cost R$ 30: the developed model is able to save up to R$ 3.4 billions per year.
+* Results: Assuming that 70% of the Brazilian population does anual check-ups, and that diabetes tests cost R$ 30: the developed model can to save up to R$ 3.4 billion per year.
 
 See the app for real-time prediction: 
 
@@ -50,13 +50,13 @@ See the app for real-time prediction:
 
 #### [🍕 Food delivery: a dashboard to evaluate the Company Growth](https://github.com/mfdanieli/curry_company)
 
-* Problem: Food delivery apps have to evaluate growth metrics related to the delivery people, restaurants, and to the app. How can the company assess business insights, if data is spreaded and messy?
-* Solution: ETL, data visualization and deployment for interactive analysis.
+* Problem: Food delivery apps have to evaluate growth metrics related to the delivery people, restaurants, and to the app. How can the company assess business insights, if data is spread and messy?
+* Solution: ETL, data visualization, and deployment for interactive analysis.
 * Results: Insights and suggestions for the teams, for example: 
   - Most orders are in Metropolitan and Urban cities with traffic density under low and jam conditions. The marketing team may prepare promotions during high traffic conditions to increase sales (but  extend the delivery time prediction, to avoid bad reviews).
 
 
-Take a look at the responsive, interactive and multi-purpose app:
+Take a look at the responsive, interactive, and multi-purpose app:
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mfdanieli-curry-company-home-70myun.streamlit.app/)
 
