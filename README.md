@@ -60,3 +60,11 @@ Take a look at the responsive, interactive, and multi-purpose app:
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mfdanieli-curry-company-home-70myun.streamlit.app/)
 
+
+#### 📊 Dashboards in Power BI
+
+[Sales report of e-commerce with hypothetical data](https://app.powerbi.com/view?r=eyJrIjoiYWZjYTFmNDYtYmI5ZC00Yjg4LWE0ZWMtYjExYmMyNzE1NDE4IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+
+[Water use in Itacaiúnas basin, PA](https://app.powerbi.com/view?r=eyJrIjoiNzZmZDFmMDQtOWZkZS00NTExLWI1MmItNTlkODkzNTk0ZWM2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+
+[Water quality in Minas Gerais](https://app.powerbi.com/view?r=eyJrIjoiZjlmMjcxMzItMzdkMy00Nzk4LThjOTYtYzBlZDk4NTRiOWI1IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
