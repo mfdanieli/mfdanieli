@@ -24,16 +24,16 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-## Data Science Projects
+## Alguns dos meus Projetos
 
-Here are a few fictional projects to solve Business problems using Machine Learning.
 
 -------------
-#### [🩺 Predict Diabetes based on risk factors](https://github.com/mfdanieli/Classification-ML)
+#### [💦 Previsão em tempo real do risco associado ao consumo de água de rios contaminada por metais](https://github.com/mfdanieli/Classification-ML)
 
-* Problem: Undiagnosed diabetes can cost $31.7 billion annually. Is there a way to increase early diagnosis?
-* Solution: Develop a machine learning method (K-Nearest Neighbours) to predict if a patient may have diabetes, based on risk health factors.
-* Results: Assuming that 70% of the Brazilian population does anual check-ups, and that diabetes tests cost R$ 30: the developed model can to save up to R$ 3.4 billion per year.
+* Um algoritmo de machine leanirng é usado para prever índice de risco à saúde pelo consumo de água com metal.
+* Os dados usados para desenvolvimento são informações de monitoramento fluviométrico e de qualidade de água em Minas Gerais
+* A ferramente permite avaliar as resposta a alterações das características da água (como temperatura e pH), vazão do corpo hídrico, ou uso do solo (áreas de floresta, mineração, ocupação urbana etc).
+* Possíveis aplicações incluem avaliações para planejamento e ações de controle de poluentes na bacia hidrográfica.
 
 See the app for real-time prediction: 
 
