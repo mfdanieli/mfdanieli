@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ### Alguns dos meus Projetos
 
 #### [💦 Simulações nos rios Paranapanema e Itararé e seus revervatórios](https://metadados.snirh.gov.br/geonetwork/srv/api/records/45d66f15-0605-4167-ac08-b24a6cdc2879/attachments/vers%C3%A3o_web_pg_dupla%5B1%5D.pdf)
-* Projeto em parceria com a Agência Nacional de Águas e Saneamento Básico para suporte ao enquadramento.
+* Projeto em parceria com a Agência Nacional de Águas e Saneamento Básico (ANA) para suporte ao enquadramento dos rios da União na Bacia do Paranapanema.
 * Modelagens determinísticas e integradas na bacia hidrográfica permitem estimar cenários e propor ações para garantia de quantidade e qualidade de água aos seus usos diversos.
 * Os modelos utilizados são descritos no [site ParanapanemaOpenModels](https://sites.google.com/view/paranapanema-openmodels/modelos-rios/rio-1d-sihqual?authuser=0).
 * Nevegue pelos resultados em:
@@ -38,9 +38,9 @@ You can click the Preview link to take a look at your changes.
 -------------
 #### 🔮 Previsão em tempo real do risco associado ao consumo de água de rios contaminada por metais
 
-* Um algoritmo de machine leanirng é usado para prever índice de risco à saúde pelo consumo de água com metal.
+* Um algoritmo de machine learning é usado para prever um índice de risco à saúde pelo consumo de água com metal.
 * Os dados usados para desenvolvimento são informações de monitoramento fluviométrico e de qualidade de água em Minas Gerais.
-* A ferramente permite avaliar as respostas a alterações das características da água (como temperatura e pH), vazão do corpo hídrico, ou uso do solo (áreas de floresta, mineração, ocupação urbana etc).
+* A ferramenta permite avaliar as respostas a alterações das características da água (como temperatura e pH), vazão do corpo hídrico, ou uso do solo (áreas de floresta, mineração, ocupação urbana etc).
 * Possíveis aplicações incluem avaliações para planejamento e ações de controle de poluentes na bacia hidrográfica.
 
 Veja o aplicativo em: 
@@ -49,8 +49,8 @@ Veja o aplicativo em:
 
 #### 🎯 Simulação de fósforo em reservatórios
 
-* Um do tipo "continuously stirred tank reactor (CSTR)" é usado para prever concentrações no reservatório Foz do Area, PR.
-* A ferramenta permite avaliar a resposta a cargas de entrada definidas pelo usuário, considerando o regime de vazão do rio Iguaçu, e o volume de água alterado durante a operaçõa da usina hidrelétrica.
+* Um modelo do tipo "continuously stirred tank reactor (CSTR)" é usado para prever concentrações no reservatório Foz do Area, PR.
+* A ferramenta permite avaliar a resposta a cargas de entrada definidas pelo usuário, considerando o regime de vazão do rio Iguaçu, e o volume de água armazenado alterado durante a operação da usina hidrelétrica.
 * Mais detalhes sobre a metodologia podem ser encontrados no [artigo](https://www.sciencedirect.com/science/article/pii/S0301479722020205?via%3Dihub).
 
 Veja o aplicativo em: 
