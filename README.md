@@ -61,7 +61,7 @@ Veja o aplicativo em:
 #### [🏞️ Simulações de transporte e destino de metais no rio Parauapebas, PA](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4423275)
 * Projeto no contexto de Hidrologia Aplicada na região Amazônica e sob influência de atividades de mineração.
 * Modelagem para estimar risco de contaminação da água para a população e cenários para ações de remediação.
-* Os resultados podem ser verificados na [ferramenta online](https://sihqualparauapebas.streamlit.app/).
+* Os resultados podem ser verificados na [ferramenta online](https://sihqualparauapebas.streamlit.app/) e no [artigo](https://www.sciencedirect.com/science/article/abs/pii/S0195925523001750).
 
   
 #### 📊 Dashboards em Power BI
