@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 * Os modelos utilizados são descritos no [site ParanapanemaOpenModels](https://sites.google.com/view/paranapanema-openmodels/modelos-rios/rio-1d-sihqual?authuser=0).
 * Nevegue pelos resultados em:
 <div>
-  <a href="https://storymaps.arcgis.com/stories/4181a6794ba440df9faddab621d5e09b" target="_blank"><img src="https://img.shields.io/badge/-ArcGIS-%230066B1?style=for-the-badge&logo=arcgis&logoColor=white" target="_blank"></a>   
+  <a href="https://portal1.snirh.gov.br/ana/apps/storymaps/stories/dfc39ffa115342d88d8b632f5e31ac33" target="_blank"><img src="https://img.shields.io/badge/-ArcGIS-%230066B1?style=for-the-badge&logo=arcgis&logoColor=white" target="_blank"></a>   
 </div>
 
 -------------
@@ -45,7 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 Veja o aplicativo em: 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mfdanieli-mg-v1-minas-vfg1et.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://healthindexminasgerais.streamlit.app/)
+
 
 #### 🎯 Simulação de fósforo em reservatórios
 
@@ -60,7 +61,7 @@ Veja o aplicativo em:
 #### [🏞️ Simulações de transporte e destino de metais no rio Parauapebas, PA](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4423275)
 * Projeto no contexto de Hidrologia Aplicada na região Amazônica e sob influência de atividades de mineração.
 * Modelagem para estimar risco de contaminação da água para a população e cenários para ações de remediação.
-* Alguns resultados preliminares podem ser verificados interativamente [aqui](https://mfdanieli.github.io/cargas_parauapebas/index.html).
+* Os resultados podem ser verificados na [ferramenta online](https://sihqualparauapebas.streamlit.app/).
 
   
 #### 📊 Dashboards em Power BI
